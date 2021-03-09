@@ -1,0 +1,441 @@
+,Date,Country,Local,Industry Sector,Accident Level,Potential Accident Level,Gender,Employee ou Terceiro,Critical risk,Year,Month,Day,Weekday,WeekofYear,Season
+0,2016-01-01,Argentina,Local_01,Mining,I,IV,Male,Third Party,Pressed,2016,1,1,Friday,53,Summer
+1,2016-01-02,Brazil,Local_02,Mining,I,IV,Male,Employee,Pressurized Systems,2016,1,2,Saturday,53,Summer
+2,2016-01-06,Argentina,Local_03,Mining,I,III,Male,Third Party (Remote),Manual Tools,2016,1,6,Wednesday,1,Summer
+3,2016-01-08,Argentina,Local_04,Mining,I,I,Male,Third Party,Others,2016,1,8,Friday,1,Summer
+4,2016-01-10,Argentina,Local_04,Mining,IV,IV,Male,Third Party,Others,2016,1,10,Sunday,1,Summer
+5,2016-01-12,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Pressurized Systems,2016,1,12,Tuesday,2,Summer
+6,2016-01-16,Brazil,Local_05,Metals,I,III,Male,Employee,Fall prevention (same level),2016,1,16,Saturday,2,Summer
+7,2016-01-17,Argentina,Local_04,Mining,I,III,Male,Third Party,Pressed,2016,1,17,Sunday,2,Summer
+8,2016-01-19,Brazil,Local_02,Mining,I,IV,Male,Third Party (Remote),Others,2016,1,19,Tuesday,3,Summer
+9,2016-01-26,Argentina,Local_06,Metals,I,II,Male,Third Party,Chemical substances,2016,1,26,Tuesday,4,Summer
+10,2016-01-28,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,1,28,Thursday,4,Summer
+11,2016-01-30,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,1,30,Saturday,4,Summer
+12,2016-02-01,Brazil,Local_05,Metals,I,I,Male,Employee,Liquid Metal,2016,2,1,Monday,5,Summer
+13,2016-02-02,Argentina,Local_01,Mining,IV,V,Male,Third Party,Electrical installation,2016,2,2,Tuesday,5,Summer
+14,2016-02-04,Brazil,Local_05,Metals,I,III,Male,Employee,Confined space,2016,2,4,Thursday,5,Summer
+15,2016-02-04,Brazil,Local_05,Metals,I,IV,Male,Employee,Liquid Metal,2016,2,4,Thursday,5,Summer
+16,2016-02-06,Argentina,Local_04,Mining,III,IV,Male,Third Party,Others,2016,2,6,Saturday,5,Summer
+17,2016-02-07,Argentina,Local_06,Metals,I,II,Female,Third Party,Others,2016,2,7,Sunday,5,Summer
+18,2016-02-08,Argentina,Local_06,Metals,I,II,Male,Employee,Others,2016,2,8,Monday,6,Summer
+19,2016-02-21,Argentina,Local_06,Metals,I,III,Male,Employee,Others,2016,2,21,Sunday,7,Summer
+20,2016-02-25,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2016,2,25,Thursday,8,Summer
+21,2016-02-09,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,2,9,Tuesday,6,Summer
+22,2016-02-10,Argentina,Local_03,Mining,II,IV,Male,Third Party,Others,2016,2,10,Wednesday,6,Summer
+23,2016-02-15,Brazil,Local_02,Mining,II,II,Male,Third Party (Remote),Others,2016,2,15,Monday,7,Summer
+24,2016-02-14,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2016,2,14,Sunday,6,Summer
+25,2016-02-15,Argentina,Local_06,Metals,I,II,Male,Employee,Manual Tools,2016,2,15,Monday,7,Summer
+26,2016-02-13,Argentina,Local_01,Mining,I,I,Male,Employee,Others,2016,2,13,Saturday,6,Summer
+27,2016-02-15,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,2,15,Monday,7,Summer
+28,2016-02-16,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,2,16,Tuesday,7,Summer
+29,2016-02-16,Brazil,Local_07,Mining,II,III,Male,Employee,Others,2016,2,16,Tuesday,7,Summer
+30,2016-02-17,Argentina,Local_03,Mining,I,II,Male,Employee,Others,2016,2,17,Wednesday,7,Summer
+31,2016-02-19,Argentina,Local_03,Mining,I,II,Male,Employee,Others,2016,2,19,Friday,7,Summer
+32,2016-02-21,Argentina,Local_01,Mining,III,IV,Male,Third Party,Others,2016,2,21,Sunday,7,Summer
+33,2016-02-20,Argentina,Local_04,Mining,V,V,Male,Third Party,Others,2016,2,20,Saturday,7,Summer
+34,2016-02-15,Brazil,Local_05,Metals,I,II,Male,Employee,Others,2016,2,15,Monday,7,Summer
+35,2016-02-18,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Pressed,2016,2,18,Thursday,7,Summer
+36,2016-02-22,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,2,22,Monday,8,Summer
+37,2016-02-24,Brazil,Local_07,Mining,I,V,Male,Employee,Others,2016,2,24,Wednesday,8,Summer
+38,2016-02-24,Brazil,Local_07,Mining,I,V,Female,Third Party,Others,2016,2,24,Wednesday,8,Summer
+39,2016-02-24,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,2,24,Wednesday,8,Summer
+40,2016-02-29,Brazil,Local_02,Mining,II,IV,Male,Employee,Others,2016,2,29,Monday,9,Summer
+41,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+42,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+43,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+44,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+45,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+46,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+47,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+48,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+49,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+50,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+51,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+52,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+53,2016-02-26,Argentina,Local_06,Metals,I,IV,Male,Third Party (Remote),Pressurized Systems / Chemical Substances,2016,2,26,Friday,8,Summer
+54,2016-02-27,Argentina,Local_01,Mining,I,III,Male,Third Party,Others,2016,2,27,Saturday,8,Summer
+55,2016-03-02,Brazil,Local_08,Metals,I,III,Male,Employee,Pressed,2016,3,2,Wednesday,9,Autumn
+56,2016-03-02,Argentina,Local_06,Metals,I,III,Male,Employee,Blocking and isolation of energies,2016,3,2,Wednesday,9,Autumn
+57,2016-03-03,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,3,3,Thursday,9,Autumn
+58,2016-03-04,Argentina,Local_06,Metals,I,III,Male,Employee,Manual Tools,2016,3,4,Friday,9,Autumn
+59,2016-03-05,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,3,5,Saturday,9,Autumn
+60,2016-03-06,Argentina,Local_04,Mining,I,III,Male,Employee,Others,2016,3,6,Sunday,9,Autumn
+61,2016-03-06,Argentina,Local_03,Mining,III,IV,Male,Third Party (Remote),Others,2016,3,6,Sunday,9,Autumn
+62,2016-03-09,Argentina,Local_06,Metals,I,IV,Male,Third Party,Suspended Loads,2016,3,9,Wednesday,10,Autumn
+63,2016-03-11,Argentina,Local_03,Mining,III,V,Male,Third Party,Others,2016,3,11,Friday,10,Autumn
+64,2016-03-11,Argentina,Local_03,Mining,I,V,Male,Third Party,Others,2016,3,11,Friday,10,Autumn
+65,2016-03-13,Argentina,Local_03,Mining,I,IV,Male,Third Party (Remote),Others,2016,3,13,Sunday,10,Autumn
+66,2016-03-12,Brazil,Local_07,Mining,III,IV,Male,Employee,Others,2016,3,12,Saturday,10,Autumn
+67,2016-03-14,Argentina,Local_06,Metals,II,III,Male,Third Party (Remote),Chemical substances,2016,3,14,Monday,11,Autumn
+68,2016-03-13,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,3,13,Sunday,10,Autumn
+69,2016-03-16,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2016,3,16,Wednesday,11,Autumn
+70,2016-03-10,Brazil,Local_05,Metals,I,II,Male,Employee,Pressed,2016,3,10,Thursday,10,Autumn
+71,2016-03-17,Argentina,Local_01,Mining,I,II,Male,Third Party,Others,2016,3,17,Thursday,11,Autumn
+72,2016-03-16,Brazil,Local_08,Metals,II,II,Male,Employee,Manual Tools,2016,3,16,Wednesday,11,Autumn
+73,2016-03-18,Argentina,Local_04,Mining,IV,IV,Male,Third Party,Others,2016,3,18,Friday,11,Autumn
+74,2016-03-19,Argentina,Local_01,Mining,I,III,Male,Employee,Others,2016,3,19,Saturday,11,Autumn
+75,2016-03-14,Brazil,Local_05,Metals,I,IV,Male,Employee,Chemical substances,2016,3,14,Monday,11,Autumn
+76,2016-03-18,Brazil,Local_05,Metals,I,IV,Male,Employee,Fall prevention (same level),2016,3,18,Friday,11,Autumn
+77,2016-03-18,Brazil,Local_05,Metals,I,IV,Male,Employee,Chemical substances,2016,3,18,Friday,11,Autumn
+78,2016-03-22,Argentina,Local_03,Mining,I,II,Male,Employee,Others,2016,3,22,Tuesday,12,Autumn
+79,2016-03-22,Argentina,Local_01,Mining,IV,IV,Male,Third Party,Others,2016,3,22,Tuesday,12,Autumn
+80,2016-03-25,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,3,25,Friday,12,Autumn
+81,2016-03-30,Argentina,Local_04,Mining,II,IV,Male,Third Party,Others,2016,3,30,Wednesday,13,Autumn
+82,2016-03-30,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,3,30,Wednesday,13,Autumn
+83,2016-03-31,Argentina,Local_06,Metals,I,III,Male,Employee,Others,2016,3,31,Thursday,13,Autumn
+84,2016-03-31,Brazil,Local_08,Metals,I,III,Male,Third Party (Remote),Pressed,2016,3,31,Thursday,13,Autumn
+85,2016-04-01,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,4,1,Friday,13,Autumn
+86,2016-04-03,Argentina,Local_01,Mining,III,V,Male,Third Party,Others,2016,4,3,Sunday,13,Autumn
+87,2016-04-02,Argentina,Local_01,Mining,I,III,Male,Employee,Others,2016,4,2,Saturday,13,Autumn
+88,2016-04-01,Argentina,Local_01,Mining,I,V,Male,Third Party (Remote),Others,2016,4,1,Friday,13,Autumn
+89,2016-04-01,Argentina,Local_01,Mining,I,V,Male,Third Party (Remote),Others,2016,4,1,Friday,13,Autumn
+90,2016-03-10,Chile,Local_10,Others,II,II,Male,Third Party,Others,2016,3,10,Thursday,10,Autumn
+91,2016-03-24,Chile,Local_10,Others,IV,IV,Male,Third Party,Poll,2016,3,24,Thursday,12,Autumn
+92,2016-03-22,Chile,Local_10,Others,I,I,Male,Third Party,Others,2016,3,22,Tuesday,12,Autumn
+93,2016-03-31,Argentina,Local_03,Mining,I,II,Male,Third Party,Others,2016,3,31,Thursday,13,Autumn
+94,2016-04-04,Brazil,Local_09,Metals,III,IV,Male,Employee,Manual Tools,2016,4,4,Monday,14,Autumn
+95,2016-04-05,Argentina,Local_06,Metals,I,III,Male,Third Party,Fall prevention (same level),2016,4,5,Tuesday,14,Autumn
+96,2016-04-05,Brazil,Local_05,Metals,I,III,Male,Third Party,Pressed,2016,4,5,Tuesday,14,Autumn
+97,2016-04-07,Argentina,Local_03,Mining,I,II,Male,Third Party,Others,2016,4,7,Thursday,14,Autumn
+98,2016-04-08,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,4,8,Friday,14,Autumn
+99,2016-04-11,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,4,11,Monday,15,Autumn
+100,2016-04-11,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,4,11,Monday,15,Autumn
+101,2016-04-14,Brazil,Local_08,Metals,I,III,Male,Employee,Pressurized Systems,2016,4,14,Thursday,15,Autumn
+102,2016-04-14,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2016,4,14,Thursday,15,Autumn
+103,2016-04-16,Argentina,Local_04,Mining,I,III,Male,Third Party,Others,2016,4,16,Saturday,15,Autumn
+104,2016-04-16,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,4,16,Saturday,15,Autumn
+105,2016-04-15,Argentina,Local_03,Mining,I,II,Male,Employee,Others,2016,4,15,Friday,15,Autumn
+106,2016-04-17,Brazil,Local_05,Metals,I,IV,Male,Employee,Cut,2016,4,17,Sunday,15,Autumn
+107,2016-04-18,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,4,18,Monday,16,Autumn
+108,2016-04-21,Brazil,Local_02,Mining,I,V,Male,Employee,Others,2016,4,21,Thursday,16,Autumn
+109,2016-04-22,Argentina,Local_01,Mining,I,II,Male,Third Party,Others,2016,4,22,Friday,16,Autumn
+110,2016-04-23,Argentina,Local_04,Mining,I,III,Male,Employee,Others,2016,4,23,Saturday,16,Autumn
+111,2016-04-22,Brazil,Local_05,Metals,II,IV,Male,Third Party,Pressurized Systems / Chemical Substances,2016,4,22,Friday,16,Autumn
+112,2016-04-26,Brazil,Local_05,Metals,I,II,Female,Third Party,Cut,2016,4,26,Tuesday,17,Autumn
+113,2016-04-28,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Chemical substances,2016,4,28,Thursday,17,Autumn
+114,2016-04-29,Argentina,Local_04,Mining,III,IV,Male,Third Party,Others,2016,4,29,Friday,17,Autumn
+115,2016-04-30,Brazil,Local_05,Metals,I,IV,Male,Employee,Pressed,2016,4,30,Saturday,17,Autumn
+116,2016-04-30,Argentina,Local_01,Mining,I,II,Male,Employee,Others,2016,4,30,Saturday,17,Autumn
+117,2016-04-30,Argentina,Local_03,Mining,IV,IV,Male,Third Party,Others,2016,4,30,Saturday,17,Autumn
+118,2016-05-01,Argentina,Local_04,Mining,I,IV,Male,Third Party,Others,2016,5,1,Sunday,17,Autumn
+119,2016-05-02,Brazil,Local_05,Metals,I,IV,Female,Third Party (Remote),Chemical substances,2016,5,2,Monday,18,Autumn
+120,2016-05-04,Chile,Local_10,Others,I,I,Male,Third Party,Manual Tools,2016,5,4,Wednesday,18,Autumn
+121,2016-05-03,Argentina,Local_04,Mining,II,IV,Male,Third Party,Others,2016,5,3,Tuesday,18,Autumn
+122,2016-05-04,Argentina,Local_04,Mining,I,III,Male,Employee,Others,2016,5,4,Wednesday,18,Autumn
+123,2016-05-04,Brazil,Local_05,Metals,I,III,Female,Third Party (Remote),Chemical substances,2016,5,4,Wednesday,18,Autumn
+124,2016-05-04,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Chemical substances,2016,5,4,Wednesday,18,Autumn
+125,2016-05-05,Brazil,Local_05,Metals,I,III,Male,Third Party,Manual Tools,2016,5,5,Thursday,18,Autumn
+126,2016-05-05,Brazil,Local_08,Metals,I,II,Male,Third Party (Remote),Manual Tools,2016,5,5,Thursday,18,Autumn
+127,2016-05-11,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,5,11,Wednesday,19,Autumn
+128,2016-05-12,Argentina,Local_06,Metals,I,II,Male,Third Party (Remote),Chemical substances,2016,5,12,Thursday,19,Autumn
+129,2016-05-11,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,5,11,Wednesday,19,Autumn
+130,2016-05-14,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,5,14,Saturday,19,Autumn
+131,2016-05-17,Argentina,Local_11,Others,I,II,Male,Employee,Others,2016,5,17,Tuesday,20,Autumn
+132,2016-05-19,Argentina,Local_03,Mining,I,IV,Male,Third Party (Remote),Others,2016,5,19,Thursday,20,Autumn
+133,2016-05-18,Brazil,Local_05,Metals,I,III,Male,Employee,Others,2016,5,18,Wednesday,20,Autumn
+134,2016-05-22,Brazil,Local_08,Metals,I,III,Male,Employee,Blocking and isolation of energies,2016,5,22,Sunday,20,Autumn
+135,2016-05-20,Argentina,Local_06,Metals,I,I,Male,Third Party,Fall prevention (same level),2016,5,20,Friday,20,Autumn
+136,2016-05-22,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,5,22,Sunday,20,Autumn
+137,2016-05-24,Chile,Local_10,Others,IV,IV,Male,Third Party,Fall,2016,5,24,Tuesday,21,Autumn
+138,2016-05-12,Argentina,Local_04,Mining,I,III,Male,Employee,Others,2016,5,12,Thursday,19,Autumn
+139,2016-05-25,Argentina,Local_04,Mining,II,III,Male,Employee,Others,2016,5,25,Wednesday,21,Autumn
+140,2016-05-27,Brazil,Local_02,Mining,I,V,Male,Employee,Others,2016,5,27,Friday,21,Autumn
+141,2016-05-25,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,5,25,Wednesday,21,Autumn
+142,2016-05-26,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,5,26,Thursday,21,Autumn
+143,2016-05-26,Chile,Local_10,Others,I,I,Male,Employee,Others,2016,5,26,Thursday,21,Autumn
+144,2016-06-01,Brazil,Local_05,Metals,I,III,Male,Employee,Cut,2016,6,1,Wednesday,22,Winter
+145,2016-06-02,Brazil,Local_05,Metals,I,III,Male,Employee,Cut,2016,6,2,Thursday,22,Winter
+146,2016-06-03,Argentina,Local_01,Mining,I,II,Male,Third Party,Others,2016,6,3,Friday,22,Winter
+147,2016-06-04,Argentina,Local_04,Mining,V,V,Male,Third Party,Others,2016,6,4,Saturday,22,Winter
+148,2016-06-03,Chile,Local_10,Others,II,II,Male,Third Party,Others,2016,6,3,Friday,22,Winter
+149,2016-06-05,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,6,5,Sunday,22,Winter
+150,2016-06-05,Argentina,Local_06,Metals,I,I,Male,Employee,Fall prevention,2016,6,5,Sunday,22,Winter
+151,2016-06-08,Argentina,Local_04,Mining,I,III,Male,Third Party,Others,2016,6,8,Wednesday,23,Winter
+152,2016-06-07,Argentina,Local_01,Mining,I,I,Male,Employee,Others,2016,6,7,Tuesday,23,Winter
+153,2016-06-07,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,6,7,Tuesday,23,Winter
+154,2016-06-08,Argentina,Local_06,Metals,IV,IV,Male,Employee,Fall prevention (same level),2016,6,8,Wednesday,23,Winter
+155,2016-06-08,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,8,Wednesday,23,Winter
+156,2016-06-08,Chile,Local_10,Others,I,I,Male,Third Party,Others,2016,6,8,Wednesday,23,Winter
+157,2016-06-10,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Manual Tools,2016,6,10,Friday,23,Winter
+158,2016-06-13,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,6,13,Monday,24,Winter
+159,2016-06-16,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,6,16,Thursday,24,Winter
+160,2016-06-16,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,16,Thursday,24,Winter
+161,2016-06-16,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,16,Thursday,24,Winter
+162,2016-06-16,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,16,Thursday,24,Winter
+163,2016-06-16,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,16,Thursday,24,Winter
+164,2016-06-18,Chile,Local_10,Others,I,I,Male,Employee,Bees,2016,6,18,Saturday,24,Winter
+165,2016-06-18,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,6,18,Saturday,24,Winter
+166,2016-06-17,Brazil,Local_08,Metals,IV,V,Male,Employee,"
+Not applicable",2016,6,17,Friday,24,Winter
+167,2016-06-17,Brazil,Local_08,Metals,IV,V,Male,Employee,Not applicable,2016,6,17,Friday,24,Winter
+168,2016-06-17,Brazil,Local_08,Metals,V,V,Male,Employee,Not applicable,2016,6,17,Friday,24,Winter
+169,2016-06-19,Argentina,Local_03,Mining,IV,IV,Male,Third Party,Others,2016,6,19,Sunday,24,Winter
+170,2016-06-21,Argentina,Local_01,Mining,I,III,Male,Third Party,Others,2016,6,21,Tuesday,25,Winter
+171,2016-06-22,Argentina,Local_03,Mining,I,III,Male,Third Party (Remote),Others,2016,6,22,Wednesday,25,Winter
+172,2016-06-23,Brazil,Local_08,Metals,I,II,Male,Employee,Manual Tools,2016,6,23,Thursday,25,Winter
+173,2016-06-24,Argentina,Local_01,Mining,I,III,Male,Third Party,Others,2016,6,24,Friday,25,Winter
+174,2016-06-24,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,6,24,Friday,25,Winter
+175,2016-06-29,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,6,29,Wednesday,26,Winter
+176,2016-07-02,Argentina,Local_03,Mining,V,V,Male,Third Party,Others,2016,7,2,Saturday,26,Winter
+177,2016-07-04,Argentina,Local_06,Metals,III,IV,Male,Third Party,Pressed,2016,7,4,Monday,27,Winter
+178,2016-06-24,Argentina,Local_03,Mining,I,II,Male,Third Party,Others,2016,6,24,Friday,25,Winter
+179,2016-07-08,Argentina,Local_01,Mining,I,II,Male,Employee,Others,2016,7,8,Friday,27,Winter
+180,2016-07-07,Argentina,Local_03,Mining,IV,V,Male,Third Party,Others,2016,7,7,Thursday,27,Winter
+181,2016-07-07,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,7,7,Thursday,27,Winter
+182,2016-07-08,Argentina,Local_06,Metals,III,IV,Male,Third Party,Manual Tools,2016,7,8,Friday,27,Winter
+183,2016-07-09,Chile,Local_10,Others,III,IV,Male,Third Party,Others,2016,7,9,Saturday,27,Winter
+184,2016-07-10,Argentina,Local_04,Mining,IV,IV,Male,Third Party,Others,2016,7,10,Sunday,27,Winter
+185,2016-07-11,Brazil,Local_05,Metals,III,IV,Male,Third Party (Remote),Suspended Loads,2016,7,11,Monday,28,Winter
+186,2016-07-14,Argentina,Local_03,Mining,I,II,Male,Employee,Others,2016,7,14,Thursday,28,Winter
+187,2016-07-15,Brazil,Local_05,Metals,I,II,Female,Employee,Chemical substances,2016,7,15,Friday,28,Winter
+188,2016-07-16,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,7,16,Saturday,28,Winter
+189,2016-07-18,Argentina,Local_06,Metals,I,III,Male,Third Party,Fall prevention (same level),2016,7,18,Monday,29,Winter
+190,2016-07-20,Brazil,Local_05,Metals,I,III,Male,Employee,Chemical substances,2016,7,20,Wednesday,29,Winter
+191,2016-07-21,Brazil,Local_12,Others,I,II,Female,Employee,Traffic,2016,7,21,Thursday,29,Winter
+192,2016-07-23,Brazil,Local_08,Metals,I,II,Male,Third Party (Remote),Pressurized Systems,2016,7,23,Saturday,29,Winter
+193,2016-07-27,Argentina,Local_03,Mining,II,IV,Male,Employee,Others,2016,7,27,Wednesday,30,Winter
+194,2016-07-29,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,7,29,Friday,30,Winter
+195,2016-07-30,Brazil,Local_07,Mining,I,II,Male,Employee,Others,2016,7,30,Saturday,30,Winter
+196,2016-08-02,Brazil,Local_02,Mining,I,III,Male,Third Party (Remote),Others,2016,8,2,Tuesday,31,Winter
+197,2016-08-01,Brazil,Local_05,Metals,II,III,Female,Third Party,Manual Tools,2016,8,1,Monday,31,Winter
+198,2016-08-02,Chile,Local_10,Others,I,I,Male,Third Party,Bees,2016,8,2,Tuesday,31,Winter
+199,2016-08-01,Argentina,Local_04,Mining,II,III,Male,Third Party,Others,2016,8,1,Monday,31,Winter
+200,2016-08-04,Brazil,Local_08,Metals,I,II,Male,Employee,Cut,2016,8,4,Thursday,31,Winter
+201,2016-08-11,Brazil,Local_02,Mining,IV,IV,Male,Third Party (Remote),Others,2016,8,11,Thursday,32,Winter
+202,2016-08-11,Brazil,Local_12,Others,I,IV,Female,Employee,Others,2016,8,11,Thursday,32,Winter
+203,2016-08-12,Argentina,Local_03,Mining,III,IV,Male,Employee,Others,2016,8,12,Friday,32,Winter
+204,2016-08-14,Argentina,Local_01,Mining,III,IV,Male,Third Party,Others,2016,8,14,Sunday,32,Winter
+205,2016-08-14,Brazil,Local_08,Metals,I,III,Male,Employee,Projection,2016,8,14,Sunday,32,Winter
+206,2016-08-15,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,8,15,Monday,33,Winter
+207,2016-08-18,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,8,18,Thursday,33,Winter
+208,2016-08-19,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2016,8,19,Friday,33,Winter
+209,2016-08-22,Brazil,Local_05,Metals,I,III,Male,Employee,Pressed,2016,8,22,Monday,34,Winter
+210,2016-08-24,Brazil,Local_05,Metals,I,II,Male,Employee,Cut,2016,8,24,Wednesday,34,Winter
+211,2016-08-25,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,8,25,Thursday,34,Winter
+212,2016-08-24,Argentina,Local_01,Mining,I,II,Male,Employee,Others,2016,8,24,Wednesday,34,Winter
+213,2016-08-29,Brazil,Local_05,Metals,I,II,Male,Employee,Chemical substances,2016,8,29,Monday,35,Winter
+214,2016-08-27,Argentina,Local_06,Metals,I,II,Male,Employee,Pressurized Systems / Chemical Substances,2016,8,27,Saturday,34,Winter
+215,2016-08-30,Brazil,Local_08,Metals,II,II,Female,Third Party (Remote),Others,2016,8,30,Tuesday,35,Winter
+216,2016-08-30,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2016,8,30,Tuesday,35,Winter
+217,2016-09-01,Brazil,Local_05,Metals,II,IV,Male,Third Party (Remote),Manual Tools,2016,9,1,Thursday,35,Spring
+218,2016-09-02,Argentina,Local_03,Mining,I,I,Male,Third Party,Others,2016,9,2,Friday,35,Spring
+219,2016-09-04,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,9,4,Sunday,35,Spring
+220,2016-09-03,Argentina,Local_04,Mining,III,IV,Male,Employee,Others,2016,9,3,Saturday,35,Spring
+221,2016-09-04,Argentina,Local_06,Metals,IV,IV,Male,Employee,Suspended Loads,2016,9,4,Sunday,35,Spring
+222,2016-09-06,Brazil,Local_02,Mining,I,II,Male,Employee,Others,2016,9,6,Tuesday,36,Spring
+223,2016-09-05,Brazil,Local_05,Metals,I,II,Female,Employee,Venomous Animals,2016,9,5,Monday,36,Spring
+224,2016-09-06,Brazil,Local_07,Mining,I,II,Male,Employee,Others,2016,9,6,Tuesday,36,Spring
+225,2016-09-13,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,9,13,Tuesday,37,Spring
+226,2016-09-12,Argentina,Local_11,Others,III,IV,Female,Employee,Others,2016,9,12,Monday,37,Spring
+227,2016-09-13,Brazil,Local_05,Metals,I,II,Male,Employee,Suspended Loads,2016,9,13,Tuesday,37,Spring
+228,2016-09-15,Chile,Local_10,Others,I,I,Male,Third Party,Others,2016,9,15,Thursday,37,Spring
+229,2016-09-17,Argentina,Local_06,Metals,I,II,Male,Third Party,Pressed,2016,9,17,Saturday,37,Spring
+230,2016-09-16,Brazil,Local_05,Metals,II,IV,Male,Employee,Pressurized Systems,2016,9,16,Friday,37,Spring
+231,2016-09-20,Chile,Local_10,Others,I,I,Male,Third Party,Fall,2016,9,20,Tuesday,38,Spring
+232,2016-09-20,Brazil,Local_05,Metals,I,II,Male,Third Party (Remote),Blocking and isolation of energies,2016,9,20,Tuesday,38,Spring
+233,2016-09-20,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2016,9,20,Tuesday,38,Spring
+234,2016-09-21,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,9,21,Wednesday,38,Spring
+235,2016-09-21,Brazil,Local_05,Metals,II,III,Male,Third Party,Manual Tools,2016,9,21,Wednesday,38,Spring
+236,2016-09-22,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2016,9,22,Thursday,38,Spring
+237,2016-09-22,Argentina,Local_06,Metals,I,III,Male,Employee,Others,2016,9,22,Thursday,38,Spring
+238,2016-09-27,Argentina,Local_06,Metals,I,II,Female,Third Party,Pressurized Systems,2016,9,27,Tuesday,39,Spring
+239,2016-09-29,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2016,9,29,Thursday,39,Spring
+240,2016-09-30,Argentina,Local_04,Mining,I,I,Male,Employee,Others,2016,9,30,Friday,39,Spring
+241,2016-10-01,Argentina,Local_04,Mining,II,III,Male,Third Party,Others,2016,10,1,Saturday,39,Spring
+242,2016-10-03,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2016,10,3,Monday,40,Spring
+243,2016-10-03,Brazil,Local_05,Metals,I,III,Male,Employee,Pressed,2016,10,3,Monday,40,Spring
+244,2016-10-03,Brazil,Local_08,Metals,I,II,Male,Employee,Pressed,2016,10,3,Monday,40,Spring
+245,2016-10-03,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,10,3,Monday,40,Spring
+246,2016-10-04,Chile,Local_10,Others,III,III,Male,Employee,Others,2016,10,4,Tuesday,40,Spring
+247,2016-10-08,Argentina,Local_04,Mining,II,II,Male,Third Party,Others,2016,10,8,Saturday,40,Spring
+248,2016-10-10,Argentina,Local_03,Mining,I,IV,Male,Third Party (Remote),Others,2016,10,10,Monday,41,Spring
+249,2016-10-10,Argentina,Local_04,Mining,III,IV,Male,Employee,Others,2016,10,10,Monday,41,Spring
+250,2016-10-11,Brazil,Local_05,Metals,I,III,Male,Employee,Chemical substances,2016,10,11,Tuesday,41,Spring
+251,2016-10-13,Brazil,Local_02,Mining,II,II,Male,Third Party (Remote),Others,2016,10,13,Thursday,41,Spring
+252,2016-10-13,Argentina,Local_03,Mining,III,IV,Male,Employee,Others,2016,10,13,Thursday,41,Spring
+253,2016-10-18,Argentina,Local_03,Mining,IV,IV,Male,Third Party,Others,2016,10,18,Tuesday,42,Spring
+254,2016-10-18,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,10,18,Tuesday,42,Spring
+255,2016-10-20,Brazil,Local_05,Metals,I,III,Male,Employee,Pressurized Systems,2016,10,20,Thursday,42,Spring
+256,2016-10-23,Brazil,Local_02,Mining,II,IV,Male,Employee,Others,2016,10,23,Sunday,42,Spring
+257,2016-10-24,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,10,24,Monday,43,Spring
+258,2016-10-26,Argentina,Local_01,Mining,III,IV,Male,Employee,Others,2016,10,26,Wednesday,43,Spring
+259,2016-10-27,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,10,27,Thursday,43,Spring
+260,2016-10-29,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,10,29,Saturday,43,Spring
+261,2016-10-29,Brazil,Local_08,Metals,IV,IV,Male,Employee,Pressed,2016,10,29,Saturday,43,Spring
+262,2016-11-04,Argentina,Local_03,Mining,IV,V,Male,Employee,Others,2016,11,4,Friday,44,Spring
+263,2016-11-08,Argentina,Local_04,Mining,I,IV,Male,Employee,Others,2016,11,8,Tuesday,45,Spring
+264,2016-11-08,Brazil,Local_08,Metals,I,II,Male,Employee,Others,2016,11,8,Tuesday,45,Spring
+265,2016-11-11,Argentina,Local_06,Metals,IV,IV,Male,Employee,Others,2016,11,11,Friday,45,Spring
+266,2016-11-13,Argentina,Local_06,Metals,I,II,Male,Employee,Plates,2016,11,13,Sunday,45,Spring
+267,2016-11-19,Argentina,Local_04,Mining,III,IV,Male,Third Party,Others,2016,11,19,Saturday,46,Spring
+268,2016-11-21,Chile,Local_10,Others,I,I,Male,Third Party,Others,2016,11,21,Monday,47,Spring
+269,2016-11-23,Argentina,Local_06,Metals,I,IV,Male,Employee,Others,2016,11,23,Wednesday,47,Spring
+270,2016-11-23,Argentina,Local_04,Mining,I,II,Male,Employee,Others,2016,11,23,Wednesday,47,Spring
+271,2016-11-25,Brazil,Local_07,Mining,I,II,Male,Employee,Others,2016,11,25,Friday,47,Spring
+272,2016-11-28,Argentina,Local_03,Mining,I,I,Male,Third Party,Others,2016,11,28,Monday,48,Spring
+273,2016-11-29,Brazil,Local_08,Metals,II,III,Male,Employee,Others,2016,11,29,Tuesday,48,Spring
+274,2016-11-30,Argentina,Local_03,Mining,I,II,Male,Third Party,Others,2016,11,30,Wednesday,48,Spring
+275,2016-12-01,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,12,1,Thursday,48,Summer
+276,2016-12-01,Argentina,Local_03,Mining,I,IV,Male,Employee,Others,2016,12,1,Thursday,48,Summer
+277,2016-12-01,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2016,12,1,Thursday,48,Summer
+278,2016-12-08,Argentina,Local_01,Mining,I,IV,Male,Employee,Suspended Loads,2016,12,8,Thursday,49,Summer
+279,2016-12-08,Argentina,Local_01,Mining,I,III,Male,Third Party (Remote),Others,2016,12,8,Thursday,49,Summer
+280,2016-12-09,Brazil,Local_02,Mining,II,III,Male,Third Party (Remote),Others,2016,12,9,Friday,49,Summer
+281,2016-12-10,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2016,12,10,Saturday,49,Summer
+282,2016-12-12,Brazil,Local_08,Metals,I,II,Male,Employee,Others,2016,12,12,Monday,50,Summer
+283,2016-12-13,Brazil,Local_02,Mining,I,II,Male,Third Party (Remote),Others,2016,12,13,Tuesday,50,Summer
+284,2016-12-12,Argentina,Local_04,Mining,III,III,Male,Employee,Others,2016,12,12,Monday,50,Summer
+285,2016-12-12,Brazil,Local_05,Metals,I,II,Male,Third Party (Remote),Others,2016,12,12,Monday,50,Summer
+286,2016-12-13,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2016,12,13,Tuesday,50,Summer
+287,2016-12-15,Brazil,Local_05,Metals,I,III,Male,Employee,Others,2016,12,15,Thursday,50,Summer
+288,2016-12-15,Argentina,Local_03,Mining,III,IV,Male,Third Party,Others,2016,12,15,Thursday,50,Summer
+289,2016-12-16,Brazil,Local_08,Metals,I,II,Female,Third Party,Others,2016,12,16,Friday,50,Summer
+290,2016-12-19,Argentina,Local_04,Mining,I,III,Male,Employee,Others,2016,12,19,Monday,51,Summer
+291,2016-12-23,Argentina,Local_04,Mining,II,IV,Male,Third Party,Others,2016,12,23,Friday,51,Summer
+292,2016-12-22,Brazil,Local_05,Metals,I,II,Male,Third Party,Others,2016,12,22,Thursday,51,Summer
+293,2016-12-22,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2016,12,22,Thursday,51,Summer
+294,2016-12-23,Argentina,Local_03,Mining,I,III,Male,Third Party,Others,2016,12,23,Friday,51,Summer
+295,2016-12-26,Argentina,Local_06,Metals,I,II,Male,Employee,Others,2016,12,26,Monday,52,Summer
+296,2016-12-28,Brazil,Local_05,Metals,I,IV,Male,Employee,Others,2016,12,28,Wednesday,52,Summer
+297,2016-12-30,Argentina,Local_04,Mining,IV,V,Male,Third Party,Others,2016,12,30,Friday,52,Summer
+298,2016-12-31,Argentina,Local_04,Mining,III,IV,Male,Third Party,Others,2016,12,31,Saturday,52,Summer
+299,2017-01-02,Argentina,Local_06,Metals,I,II,Male,Third Party (Remote),Pressed,2017,1,2,Monday,1,Summer
+300,2017-01-05,Argentina,Local_01,Mining,I,IV,Male,Third Party,Projection,2017,1,5,Thursday,1,Summer
+301,2017-01-05,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2017,1,5,Thursday,1,Summer
+302,2017-01-06,Brazil,Local_08,Metals,I,I,Male,Employee,Pressed,2017,1,6,Friday,1,Summer
+303,2017-01-07,Argentina,Local_04,Mining,I,IV,Male,Employee,Others,2017,1,7,Saturday,1,Summer
+304,2017-01-08,Argentina,Local_06,Metals,III,III,Male,Employee,Cut,2017,1,8,Sunday,1,Summer
+305,2017-01-08,Brazil,Local_05,Metals,II,IV,Male,Employee,Projection/Burning,2017,1,8,Sunday,1,Summer
+306,2017-01-09,Argentina,Local_01,Mining,I,III,Male,Third Party,Others,2017,1,9,Monday,2,Summer
+307,2017-01-09,Argentina,Local_03,Mining,I,III,Male,Employee,Others,2017,1,9,Monday,2,Summer
+308,2017-01-10,Chile,Local_10,Others,I,IV,Male,Third Party,Fall prevention,2017,1,10,Tuesday,2,Summer
+309,2017-01-12,Brazil,Local_08,Metals,I,II,Male,Third Party (Remote),Manual Tools,2017,1,12,Thursday,2,Summer
+310,2017-01-14,Argentina,Local_03,Mining,I,IV,Male,Third Party,Projection,2017,1,14,Saturday,2,Summer
+311,2017-01-17,Argentina,Local_03,Mining,I,III,Male,Employee,remains of choco,2017,1,17,Tuesday,3,Summer
+312,2017-01-17,Brazil,Local_08,Metals,I,IV,Male,Employee,Liquid Metal,2017,1,17,Tuesday,3,Summer
+313,2017-01-17,Brazil,Local_08,Metals,III,IV,Male,Employee,Others,2017,1,17,Tuesday,3,Summer
+314,2017-01-20,Argentina,Local_06,Metals,IV,IV,Male,Third Party (Remote),Fall prevention,2017,1,20,Friday,3,Summer
+315,2017-01-20,Argentina,Local_04,Mining,I,III,Male,Third Party,Manual Tools,2017,1,20,Friday,3,Summer
+316,2017-01-21,Brazil,Local_02,Mining,I,I,Male,Third Party (Remote),Others,2017,1,21,Saturday,3,Summer
+317,2017-01-21,Brazil,Local_02,Mining,I,I,Male,Third Party (Remote),Others,2017,1,21,Saturday,3,Summer
+318,2017-01-23,Argentina,Local_04,Mining,I,IV,Male,Third Party,remains of choco,2017,1,23,Monday,4,Summer
+319,2017-01-24,Brazil,Local_05,Metals,I,III,Male,Third Party (Remote),Fall,2017,1,24,Tuesday,4,Summer
+320,2017-01-24,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,1,24,Tuesday,4,Summer
+321,2017-01-25,Argentina,Local_03,Mining,V,VI,Male,Third Party,remains of choco,2017,1,25,Wednesday,4,Summer
+322,2017-01-27,Argentina,Local_04,Mining,II,III,Male,Third Party,Others,2017,1,27,Friday,4,Summer
+323,2017-01-29,Argentina,Local_01,Mining,I,III,Male,Third Party,Vehicles and Mobile Equipment,2017,1,29,Sunday,4,Summer
+324,2017-01-28,Argentina,Local_01,Mining,I,III,Male,Employee,Vehicles and Mobile Equipment,2017,1,28,Saturday,4,Summer
+325,2017-01-31,Brazil,Local_08,Metals,I,III,Male,Employee,Others,2017,1,31,Tuesday,5,Summer
+326,2017-01-31,Argentina,Local_01,Mining,I,IV,Male,Employee,Vehicles and Mobile Equipment,2017,1,31,Tuesday,5,Summer
+327,2017-02-01,Chile,Local_10,Others,I,II,Male,Third Party,Projection/Choco,2017,2,1,Wednesday,5,Summer
+328,2017-02-04,Brazil,Local_02,Mining,I,III,Male,Employee,Manual Tools,2017,2,4,Saturday,5,Summer
+329,2017-02-05,Chile,Local_10,Others,I,II,Male,Employee,Others,2017,2,5,Sunday,5,Summer
+330,2017-02-07,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2017,2,7,Tuesday,6,Summer
+331,2017-02-07,Argentina,Local_03,Mining,II,V,Male,Employee,remains of choco,2017,2,7,Tuesday,6,Summer
+332,2017-02-08,Argentina,Local_03,Mining,II,IV,Male,Third Party,Cut,2017,2,8,Wednesday,6,Summer
+333,2017-02-08,Brazil,Local_08,Metals,I,II,Female,Third Party,Others,2017,2,8,Wednesday,6,Summer
+334,2017-02-08,Brazil,Local_08,Metals,I,I,Male,Third Party (Remote),Pressed,2017,2,8,Wednesday,6,Summer
+335,2017-02-08,Argentina,Local_04,Mining,II,III,Male,Third Party,Cut,2017,2,8,Wednesday,6,Summer
+336,2017-02-08,Argentina,Local_06,Metals,I,III,Male,Employee,Machine Protection,2017,2,8,Wednesday,6,Summer
+337,2017-02-09,Argentina,Local_03,Mining,IV,V,Male,Third Party (Remote),Power lock,2017,2,9,Thursday,6,Summer
+338,2017-02-08,Argentina,Local_06,Metals,I,I,Male,Third Party (Remote),Manual Tools,2017,2,8,Wednesday,6,Summer
+339,2017-02-13,Brazil,Local_08,Metals,II,III,Male,Employee,Pressed,2017,2,13,Monday,7,Summer
+340,2017-02-13,Brazil,Local_05,Metals,I,IV,Male,Employee,Projection,2017,2,13,Monday,7,Summer
+341,2017-02-13,Brazil,Local_05,Metals,III,IV,Male,Employee,Burn,2017,2,13,Monday,7,Summer
+342,2017-02-14,Argentina,Local_03,Mining,IV,V,Male,Third Party,Pressed,2017,2,14,Tuesday,7,Summer
+343,2017-02-15,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,2,15,Wednesday,7,Summer
+344,2017-02-16,Argentina,Local_03,Mining,I,II,Female,Third Party (Remote),Fall,2017,2,16,Thursday,7,Summer
+345,2017-02-17,Argentina,Local_04,Mining,I,III,Male,Third Party,Projection/Manual Tools,2017,2,17,Friday,7,Summer
+346,2017-02-17,Argentina,Local_01,Mining,I,III,Male,Employee,Chemical substances,2017,2,17,Friday,7,Summer
+347,2017-02-17,Argentina,Local_01,Mining,I,IV,Male,Third Party,Projection,2017,2,17,Friday,7,Summer
+348,2017-02-23,Argentina,Local_04,Mining,IV,IV,Male,Third Party,Vehicles and Mobile Equipment,2017,2,23,Thursday,8,Summer
+349,2017-02-23,Brazil,Local_07,Mining,I,III,Male,Third Party (Remote),Venomous Animals,2017,2,23,Thursday,8,Summer
+350,2017-02-25,Argentina,Local_01,Mining,IV,IV,Male,Third Party (Remote),Fall,2017,2,25,Saturday,8,Summer
+351,2017-02-25,Argentina,Local_01,Mining,I,III,Male,Employee,Projection,2017,2,25,Saturday,8,Summer
+352,2017-02-25,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,2,25,Saturday,8,Summer
+353,2017-02-26,Argentina,Local_01,Mining,I,III,Male,Third Party,Fall,2017,2,26,Sunday,8,Summer
+354,2017-02-26,Brazil,Local_07,Mining,I,IV,Male,Employee,Fall prevention,2017,2,26,Sunday,8,Summer
+355,2017-02-27,Argentina,Local_03,Mining,II,IV,Male,Third Party,remains of choco,2017,2,27,Monday,9,Summer
+356,2017-02-27,Brazil,Local_02,Mining,III,IV,Male,Employee,Others,2017,2,27,Monday,9,Summer
+357,2017-03-01,Argentina,Local_06,Metals,I,I,Male,Third Party (Remote),Others,2017,3,1,Wednesday,9,Autumn
+358,2017-03-02,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,3,2,Thursday,9,Autumn
+359,2017-03-02,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,3,2,Thursday,9,Autumn
+360,2017-03-02,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,3,2,Thursday,9,Autumn
+361,2017-03-04,Brazil,Local_02,Mining,I,V,Male,Employee,Vehicles and Mobile Equipment,2017,3,4,Saturday,9,Autumn
+362,2017-03-06,Argentina,Local_04,Mining,I,III,Male,Third Party (Remote),Fall,2017,3,6,Monday,10,Autumn
+363,2017-03-08,Chile,Local_10,Others,I,I,Male,Third Party,Others,2017,3,8,Wednesday,10,Autumn
+364,2017-03-09,Argentina,Local_03,Mining,I,V,Male,Third Party,Vehicles and Mobile Equipment,2017,3,9,Thursday,10,Autumn
+365,2017-03-08,Argentina,Local_01,Mining,V,V,Male,Third Party,Vehicles and Mobile Equipment,2017,3,8,Wednesday,10,Autumn
+366,2017-03-09,Brazil,Local_05,Metals,I,III,Male,Third Party,Machine Protection,2017,3,9,Thursday,10,Autumn
+367,2017-03-10,Argentina,Local_03,Mining,II,IV,Male,Third Party,Individual protection equipment,2017,3,10,Friday,10,Autumn
+368,2017-03-15,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,3,15,Wednesday,11,Autumn
+369,2017-03-15,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,3,15,Wednesday,11,Autumn
+370,2017-03-15,Brazil,Local_08,Metals,II,IV,Female,Employee,Chemical substances,2017,3,15,Wednesday,11,Autumn
+371,2017-03-18,Argentina,Local_03,Mining,V,V,Male,Third Party (Remote),Power lock,2017,3,18,Saturday,11,Autumn
+372,2017-03-22,Argentina,Local_06,Metals,V,V,Male,Third Party (Remote),Power lock,2017,3,22,Wednesday,12,Autumn
+373,2017-03-25,Argentina,Local_03,Mining,II,V,Male,Third Party,Vehicles and Mobile Equipment,2017,3,25,Saturday,12,Autumn
+374,2017-03-25,Chile,Local_10,Others,I,I,Male,Employee,Others,2017,3,25,Saturday,12,Autumn
+375,2017-03-31,Brazil,Local_05,Metals,I,IV,Male,Third Party,Fall prevention,2017,3,31,Friday,13,Autumn
+376,2017-04-04,Brazil,Local_05,Metals,I,III,Male,Employee,Chemical substances,2017,4,4,Tuesday,14,Autumn
+377,2017-04-05,Brazil,Local_05,Metals,I,IV,Male,Employee,Suspended Loads,2017,4,5,Wednesday,14,Autumn
+378,2017-04-07,Brazil,Local_02,Mining,I,III,Male,Third Party (Remote),Others,2017,4,7,Friday,14,Autumn
+379,2017-04-04,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,4,4,Tuesday,14,Autumn
+380,2017-04-06,Argentina,Local_06,Metals,I,II,Male,Third Party,Others,2017,4,6,Thursday,14,Autumn
+381,2017-04-07,Argentina,Local_03,Mining,I,IV,Male,Third Party,Fall prevention,2017,4,7,Friday,14,Autumn
+382,2017-04-10,Brazil,Local_02,Mining,I,II,Male,Third Party,Chemical substances,2017,4,10,Monday,15,Autumn
+383,2017-04-08,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,4,8,Saturday,14,Autumn
+384,2017-04-11,Argentina,Local_03,Mining,I,IV,Male,Third Party (Remote),Electrical Shock,2017,4,11,Tuesday,15,Autumn
+385,2017-04-11,Argentina,Local_03,Mining,I,IV,Male,Third Party (Remote),Electrical Shock,2017,4,11,Tuesday,15,Autumn
+386,2017-04-11,Brazil,Local_07,Mining,I,II,Male,Third Party (Remote),Others,2017,4,11,Tuesday,15,Autumn
+387,2017-04-13,Argentina,Local_01,Mining,I,II,Male,Employee,Others,2017,4,13,Thursday,15,Autumn
+388,2017-04-12,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,4,12,Wednesday,15,Autumn
+389,2017-04-23,Argentina,Local_04,Mining,I,III,Male,Third Party,Others,2017,4,23,Sunday,16,Autumn
+390,2017-04-19,Chile,Local_10,Others,I,IV,Male,Third Party,Others,2017,4,19,Wednesday,16,Autumn
+391,2017-04-23,Argentina,Local_06,Metals,I,II,Male,Third Party,Projection,2017,4,23,Sunday,16,Autumn
+392,2017-04-25,Chile,Local_10,Others,I,I,Male,Third Party,Venomous Animals,2017,4,25,Tuesday,17,Autumn
+393,2017-04-25,Brazil,Local_07,Mining,IV,V,Male,Employee,remains of choco,2017,4,25,Tuesday,17,Autumn
+394,2017-04-25,Argentina,Local_01,Mining,IV,IV,Male,Employee,Pressed,2017,4,25,Tuesday,17,Autumn
+395,2017-04-24,Argentina,Local_03,Mining,I,V,Male,Employee,Others,2017,4,24,Monday,17,Autumn
+396,2017-04-28,Brazil,Local_05,Metals,I,II,Male,Employee,Others,2017,4,28,Friday,17,Autumn
+397,2017-04-29,Brazil,Local_02,Mining,II,III,Male,Employee,Manual Tools,2017,4,29,Saturday,17,Autumn
+398,2017-04-30,Brazil,Local_05,Metals,I,II,Male,Employee,Others,2017,4,30,Sunday,17,Autumn
+399,2017-05-05,Brazil,Local_02,Mining,I,II,Male,Third Party (Remote),Others,2017,5,5,Friday,18,Autumn
+400,2017-05-06,Argentina,Local_01,Mining,III,IV,Male,Third Party,Manual Tools,2017,5,6,Saturday,18,Autumn
+401,2017-05-06,Brazil,Local_07,Mining,IV,V,Male,Employee,Projection,2017,5,6,Saturday,18,Autumn
+402,2017-05-06,Brazil,Local_07,Mining,II,V,Male,Employee,Projection,2017,5,6,Saturday,18,Autumn
+403,2017-05-10,Argentina,Local_04,Mining,V,V,Male,Third Party,Fall,2017,5,10,Wednesday,19,Autumn
+404,2017-05-16,Brazil,Local_05,Metals,I,III,Female,Third Party (Remote),Cut,2017,5,16,Tuesday,20,Autumn
+405,2017-05-16,Argentina,Local_03,Mining,IV,IV,Male,Employee,Others,2017,5,16,Tuesday,20,Autumn
+406,2017-05-16,Brazil,Local_12,Others,I,I,Male,Employee,Others,2017,5,16,Tuesday,20,Autumn
+407,2017-05-17,Brazil,Local_07,Mining,I,I,Male,Employee,Cut,2017,5,17,Wednesday,20,Autumn
+408,2017-05-18,Argentina,Local_06,Metals,IV,IV,Male,Third Party,Pressed,2017,5,18,Thursday,20,Autumn
+409,2017-05-19,Argentina,Local_06,Metals,I,II,Male,Employee,Projection,2017,5,19,Friday,20,Autumn
+410,2017-05-23,Argentina,Local_04,Mining,I,IV,Male,Third Party,Projection of fragments,2017,5,23,Tuesday,21,Autumn
+411,2017-05-23,Argentina,Local_04,Mining,I,IV,Male,Third Party,Projection of fragments,2017,5,23,Tuesday,21,Autumn
+412,2017-05-23,Argentina,Local_03,Mining,I,IV,Male,Third Party,Others,2017,5,23,Tuesday,21,Autumn
+413,2017-05-30,Brazil,Local_12,Others,I,II,Female,Employee,Others,2017,5,30,Tuesday,22,Autumn
+414,2017-06-04,Brazil,Local_05,Metals,I,IV,Male,Employee,Others,2017,6,4,Sunday,22,Winter
+415,2017-06-09,Argentina,Local_03,Mining,I,IV,Male,Third Party,Projection,2017,6,9,Friday,23,Winter
+416,2017-06-09,Argentina,Local_06,Metals,I,III,Male,Third Party,Fall,2017,6,9,Friday,23,Winter
+417,2017-06-11,Argentina,Local_04,Mining,I,II,Male,Third Party,Others,2017,6,11,Sunday,23,Winter
+418,2017-06-11,Argentina,Local_04,Mining,I,II,Male,Employee,Pressed,2017,6,11,Sunday,23,Winter
+419,2017-06-11,Argentina,Local_06,Metals,I,II,Male,Third Party,Cut,2017,6,11,Sunday,23,Winter
+420,2017-06-11,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2017,6,11,Sunday,23,Winter
+421,2017-06-14,Brazil,Local_02,Mining,III,IV,Male,Third Party (Remote),Pressed,2017,6,14,Wednesday,24,Winter
+422,2017-06-15,Argentina,Local_03,Mining,I,IV,Male,Employee,Projection,2017,6,15,Thursday,24,Winter
+423,2017-06-17,Argentina,Local_03,Mining,II,IV,Male,Third Party,Projection,2017,6,17,Saturday,24,Winter
+424,2017-06-18,Argentina,Local_04,Mining,IV,IV,Male,Third Party,remains of choco,2017,6,18,Sunday,24,Winter
+425,2017-06-24,Argentina,Local_01,Mining,II,III,Male,Employee,Others,2017,6,24,Saturday,25,Winter
+426,2017-06-20,Argentina,Local_01,Mining,I,IV,Male,Employee,Others,2017,6,20,Tuesday,25,Winter
+427,2017-06-20,Argentina,Local_01,Mining,I,IV,Male,Third Party,Others,2017,6,20,Tuesday,25,Winter
+428,2017-06-24,Argentina,Local_03,Mining,I,II,Female,Third Party,Cut,2017,6,24,Saturday,25,Winter
+429,2017-06-23,Brazil,Local_05,Metals,I,II,Male,Employee,Others,2017,6,23,Friday,25,Winter
+430,2017-06-19,Chile,Local_10,Others,III,IV,Male,Third Party,Others,2017,6,19,Monday,25,Winter
+431,2017-06-22,Chile,Local_10,Others,I,IV,Male,Employee,Others,2017,6,22,Thursday,25,Winter
+432,2017-06-22,Chile,Local_10,Others,I,I,Male,Employee,Venomous Animals,2017,6,22,Thursday,25,Winter
+433,2017-06-29,Brazil,Local_02,Mining,I,III,Male,Employee,Pressed,2017,6,29,Thursday,26,Winter
+434,2017-07-04,Argentina,Local_04,Mining,I,III,Male,Third Party,Others,2017,7,4,Tuesday,27,Winter
+435,2017-07-04,Argentina,Local_03,Mining,I,II,Female,Employee,Others,2017,7,4,Tuesday,27,Winter
+436,2017-07-05,Brazil,Local_09,Metals,I,II,Male,Employee,Venomous Animals,2017,7,5,Wednesday,27,Winter
+437,2017-07-06,Brazil,Local_05,Metals,I,II,Male,Employee,Cut,2017,7,6,Thursday,27,Winter
+438,2017-07-09,Argentina,Local_04,Mining,I,II,Female,Third Party,Fall prevention (same level),2017,7,9,Sunday,27,Winter
